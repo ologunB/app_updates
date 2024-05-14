@@ -3,10 +3,10 @@
     <channel>
         <title>For ios update only</title>
         <item>
-            <title>Version 1.88</title>
+            <title>Version 1.90</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 31 Mar 2024 15:20:11 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/ng/app/dlya-usa/id1669618644" sparkle:version="1.88" sparkle:os="iOS" />
+            <pubDate>Tue, 14 May 2024 15:20:11 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/ng/app/dlya-usa/id1669618644" sparkle:version="1.90" sparkle:os="iOS" />
             <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate />
